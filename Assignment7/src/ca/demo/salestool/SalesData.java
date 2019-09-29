@@ -8,7 +8,7 @@ public class SalesData
 	{
 		for(int i = 0; i < data.length; i++)
 		{
-			System.out.println("test");
+			System.out.println("");
 		}
 	}
 }
